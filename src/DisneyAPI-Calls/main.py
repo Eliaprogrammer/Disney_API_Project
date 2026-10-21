@@ -1,8 +1,9 @@
 import requests
 import csv
 
-# Data from September 21- October 6 collect
-# Data from September 15-21 is invalid
+# Data from September 21- October 4 collect
+# Data from September 15-20 is invalid
+# collectData.csv was the test file to see if data was able to write into the file.
 
 
 # SpaceShip Earth, Test Track and Soaring Across America
